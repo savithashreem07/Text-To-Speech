@@ -28,6 +28,8 @@ All these processes will run simultaneously as separate threads and we have 3 th
 
 
 OUTPUT:
+
+The sample output,
  ![image](https://github.com/savithashreem07/Text-To-Speech/assets/157434708/69fda7a7-eb84-4056-a026-6de093e58043)
 
 This is the entire object from which we are interested in the message content alone which is played as a response to the question asked.
