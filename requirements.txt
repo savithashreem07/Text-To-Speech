@@ -1,0 +1,5 @@
+openai==1.12.0
+gtts
+SpeechRecognition
+openai-whisper
+pyaudio==0.2.14
